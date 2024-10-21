@@ -1,0 +1,12 @@
+{
+    "temperatura":[
+        {"time":"13/09 1h","value":24},
+        {"time":"15/09 1h","value":25},
+        {"time":"17/09 1h","value":27},
+        {"time":"18/09 1h","value":28},
+        {"time":"20/09 1h","value":32},
+        {"time":"11/10 1h","value":33},
+        {"time":"18/10 1h","value":20},
+        {"time":"21/10 1h","value":22}
+    ]
+}
